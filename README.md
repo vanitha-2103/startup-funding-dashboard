@@ -1,0 +1,1 @@
+I analyzed startup funding data from 2020 to 2025 by cleaning it in Excel, querying it using SQL, and visualizing insights in Power BI. I built a dashboard showing KPIs, trends, and top-performing sectors. The key finding was that funding peaked in 2021 and 2024, with FoodTech and Pune leading investments.
